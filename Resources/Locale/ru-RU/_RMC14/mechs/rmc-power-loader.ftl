@@ -1,0 +1,10 @@
+﻿rmc-power-loader-hands-occupied = Вам нужны свободные руки, чтобы управлять {THE($mech)}.
+rmc-power-loader-cant-grab-full = Клешни {THE($mech)} загружены! Сначала освободите их.
+rmc-power-loader-too-close = Нельзя разместить предмет так близко!
+rmc-power-loader-too-far = Это слишком далеко!
+rmc-power-loader-cant-drop-occupied = Вы не можете выбросить {THE($drop)} здесь, что-то мешает!
+rmc-power-loader-occupied-weapon = Здесь уже установлено оружие!
+rmc-power-loader-occupied-ammo = Сначала нужно выгрузить ящик с боеприпасами!
+rmc-power-loader-ammo-no-weapon = Сначала нужно установить оружие!
+rmc-power-loader-nothing-attached = Здесь ничего не прикреплено!
+rmc-power-loader-discard-empty = Вы выбрасываете пустой {$ammo}

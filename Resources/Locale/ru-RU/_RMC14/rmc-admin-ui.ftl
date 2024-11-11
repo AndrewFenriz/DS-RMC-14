@@ -1,0 +1,19 @@
+﻿rmc-ui-cm-actions = Действия RMC
+rmc-ui-transform-tab = Трансформация
+rmc-ui-open-rmc-actions = Открыть действия RMC
+rmc-ui-marine-tab = Морпех
+rmc-ui-automated-vendor-points = Автоматические очки поставщика
+rmc-ui-points = Очки:
+rmc-ui-specialist-points = Очки специалиста:
+rmc-ui-weapons-specialist-skills = Навыки специалиста по оружию
+rmc-ui-create-squad = Создать отряд
+rmc-ui-members = Члены: {$members} в живых
+rmc-ui-add-to-squad = Добавить в отряд
+rmc-ui-xeno-tab = Ксено
+rmc-ui-xeno-hive = Улей:
+rmc-ui-create-new-hive = Создать новый улей
+rmc-ui-create-hive-title = Название нового улья
+rmc-ui-humanoid = Гуманоид
+rmc-ui-tier = Уровень {$tier}
+
+rmc-ui-admin = Админ RMC UI
